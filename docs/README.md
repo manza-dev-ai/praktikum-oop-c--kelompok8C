@@ -37,12 +37,11 @@ program.exe
 
 ## Struktur Folder
 TUGASPRAKTIKUM7/
-│
 ├── src/
 │   ├── AlatLaboratorium.hpp
 │   ├── AlatLaboratorium.cpp
 │   └── main.cpp
-│
+│── docs/
 └── README.md
 
 ## Penjelasan Class dan Method
@@ -67,6 +66,7 @@ Menampilkan informasi nama dan jumlah alat kepada terminal.
 
 ## Screenshot Output Program
 ![Screenshot](screenshoot1.png)
+
 
 
 
