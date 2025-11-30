@@ -36,7 +36,7 @@ program.exe
 ### 4. Jalankan programnya
 
 ## Struktur Folder
-praktikum-oop/
+TUGASPRAKTIKUM7/
 │
 ├── src/
 │   ├── AlatLaboratorium.hpp
@@ -67,6 +67,7 @@ Menampilkan informasi nama dan jumlah alat kepada terminal.
 
 ## Screenshot Output Program
 ![Screenshot](screenshoot1.png)
+
 
 
 
