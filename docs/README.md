@@ -42,7 +42,7 @@ TUGASPRAKTIKUM7/
 │   ├── AlatLaboratorium.cpp
 │   └── main.cpp
 │── docs/
-└── README.md
+└──├── README.md
 
 ## Penjelasan Class dan Method
 ### Class: AlatLaboratorium
@@ -66,6 +66,7 @@ Menampilkan informasi nama dan jumlah alat kepada terminal.
 
 ## Screenshot Output Program
 ![Screenshot](screenshoot1.png)
+
 
 
 
