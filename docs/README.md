@@ -66,7 +66,8 @@ Mengurangi jumlah alat sebanyak n.
 Menampilkan informasi nama dan jumlah alat kepada terminal.
 
 ## Screenshot Output Program
-![Screenshot](docs/screenshoot1.png)
+![Screenshot](screenshoot1.png)
+
 
 
 
